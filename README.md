@@ -6,7 +6,7 @@ https://www.figma.com/design/xbwpg6IbERvqBA100YRXyU/ULHK?node-id=0-1&t=BB32daKoW
 ![UI](https://github.com/Qianyiihuu/ULHK/blob/main/UI/UI.png)
 
 # Procedure
-![ulhk](https://github.com/Qianyiihuu/ULHK/blob/main/UI/ulhl.jpg)
+![ulhk](UI/ulhk.jpg)
 
 # Demo
 
